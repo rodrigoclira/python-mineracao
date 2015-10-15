@@ -1,2 +1,5 @@
 # python-mineracao
-Curso de mineração de Dados com Python
+
+Minicurso de mineração de Dados com Python
+
+Baseado em: http://adilmoujahid.com/posts/2014/07/twitter-analytics/
